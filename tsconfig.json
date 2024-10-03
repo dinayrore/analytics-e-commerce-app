@@ -1,0 +1,35 @@
+// prettier-ignore
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "alwaysStrict": true,
+    "noImplicitAny": true,
+     /* Skip type checking all .d.ts files. */
+    "skipLibCheck": true,                                
+    "strict": true,
+    "strictBindCallApply": true,
+    "strictFunctionTypes": true,
+    "strictNullChecks": true,
+    "strictPropertyInitialization": true,
+    "baseUrl": ".",
+    "paths": {
+      "*": ["src/*", "./*"],
+      "@assets": ["assets/*"],
+      "@components/*": ["src/components/*"],
+      "@contexts/*": ["src/contexts/*"],
+      "@hooks": ["src/hooks/*"],
+      "@navigation": ["src/navigation/*"],
+      "@screens/*": ["src/screens/*"],
+      "@services" :["src/services/*"],
+      "@theme": ["src/theme/*"],
+    }
+  },
+  "exclude": [
+    "node_modules",
+    "__mocks__/@react-native-async-storage/*",
+    "**/node_modules",
+    "babel.config.js",
+    "metro.config.js",
+    "jest.config.js",
+  ],
+}

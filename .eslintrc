@@ -1,0 +1,12 @@
+{
+  "extends": ["@react-native-community", "prettier"],
+  "plugins": ["prettier"],
+  "ignorePatterns": ["**.config.js", "jest/", "node_modules/", "coverage/"],
+  "rules": {
+    "quotes": [2, "double", { "avoidEscape": true }],
+    "prettier/prettier": "error",
+    "react/no-unstable-nested-components": "off",
+    "react-hooks/rules-of-hooks": "error",
+    "react-hooks/exhaustive-deps": "warn"
+  }
+}
