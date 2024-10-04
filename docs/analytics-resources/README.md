@@ -1,6 +1,6 @@
 # Analytics Resources
 
-This project is a cross-disciplinary effort dreamt up by Alicia Midland (Analytics & Optimization Team) and Kristine Horn(Engineering Team).
+This project is a cross-disciplinary effort dreamt up by Alicia Midland (Analytics & Optimization Team) and Kristine Horn (Engineering Team).
 
 Detailed installation instructions per each analytic tool can be found in within this directory.
 

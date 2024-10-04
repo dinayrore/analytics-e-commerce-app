@@ -10,12 +10,12 @@ Follow the instructions to [run a build](https://docs.expo.dev/build/setup/#run-
 
 ## iOS
 
-While the Android build steps are simple and straight forward to follow, in order to build a WT project on EAS for iOS there are a few additional steps you will need to follow that are not documented online.
+While the Android build steps are simple and straight forward to follow, in order to build a project on EAS for iOS there are a few additional steps you will need to follow that are not documented online.
 
-First, check to see that you have a WT Apple Developer account.
+First, check to see that you have a Apple Developer account.
 
-- If you do not, you will likely need one for WT projects and will need to get that set up at this time.
-- Contact IT Service Desk for General Support in order to access a WT Apple Developer account.
+- If you do not, you will likely need one for building shippable projects and will need to get that set up at this time.
+- Contact IT Service Desk for General Support in order to access an Apple Developer account.
 
 Next, ask your ED (Engineering Director) about your Apple Developer account permissions.
 

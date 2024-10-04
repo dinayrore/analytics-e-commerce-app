@@ -4,14 +4,14 @@
 
 ## Context
 
-This project is a cross-disciplinary effort dreamt up by Alicia Midland (Analytics & Optimization Team) and Kristine Horn (Engineering Team) of the WT Durham Office. The initial intent of this application is to serve as a learning tool to inform both practices how we can more easily integrate analytics alongside the development of application features. With all of this in mind, it is important to note what projects are best suited to use Amplitude:
+This project is a cross-disciplinary effort dreamt up by Alicia Midland (Analytics & Optimization Team) and Kristine Horn (Engineering Team). The initial intent of this application is to serve as a learning tool to inform both practices how we can more easily integrate analytics alongside the development of application features. With all of this in mind, it is important to note what projects are best suited to use Amplitude:
 
 - Organizations looking for an analytics tool that can also perform A/B testing, personalization, and acts as a customer data platform (CDP).
 
 - Organizations looking for thought-leadership around measurement and KPIs
 - Organizations who want to negotiate an MSA
 
-It is important to collaborate with your WT Analytics & Optimization team members for more details.
+It is important to collaborate with your Analytics & Optimization team members for more details.
 
 ## Decision
 

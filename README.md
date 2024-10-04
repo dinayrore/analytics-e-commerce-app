@@ -2,7 +2,7 @@
 
 A React Native Expo e-commerce analytics sandbox application, using Expos bare workflow. [Expo](https://docs.expo.dev/introduction/expo/) is an open source platform for making universal native apps for Android, iOS and the Web using [TypeScript](https://www.typescriptlang.org/docs/) and [React Native](https://reactnative.dev/docs/getting-started).
 
-Begin by checking out our project [docs](./docs/). This project is a cross-disciplinary effort dreamt up by Alicia Midland (Analytics & Optimization Team) and Kristine Horn(Engineering Team).
+Begin by checking out our project [docs](./docs/). This project is a cross-disciplinary effort dreamt up by Alicia Midland (Analytics & Optimization Team) and Kristine Horn (Engineering Team).
 
 Project architecture details can be found [here](./docs/project-architecture/).
 

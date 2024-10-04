@@ -23,4 +23,4 @@ Accepted.
 
 ## Consequences
 
-This entire project is built upon having the time to work on designs and features. There is no dedicated team. However, if we stick to our guidelines here, this tool can serve it's most fundamental purpose for learning new things, as well as strengthen our cross-disciplinary communication and collaboration efforts at WT.
+This entire project is built upon having the time to work on designs and features. There is no dedicated team. However, if we stick to our guidelines here, this tool can serve it's most fundamental purpose for learning new things, as well as strengthen our cross-disciplinary communication and collaboration efforts.
